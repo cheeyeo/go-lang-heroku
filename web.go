@@ -1,4 +1,5 @@
-// PORT=5000 ./web
+// export PORT=5000
+// demoapp
 
 package main
 
